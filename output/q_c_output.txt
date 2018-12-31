@@ -1,0 +1,103 @@
+Albuquerque	DVDs	1252.58
+Anaheim	Baby	1680.55
+Anchorage	DVDs	1428.48
+Arlington	DVDs	1613.61
+Atlanta	Sporting Goods	1405.94
+Aurora	Consumer Electronics	1443.91
+Austin	Children's Clothing	1481.69
+Bakersfield	Women's Clothing	1340.73
+Baltimore	Computers	1359.86
+Baton Rouge	Garden	1483.99
+Birmingham	Pet Supplies	1604.23
+Boise	Music	1371.79
+Boston	CDs	1721.41
+Buffalo	Video Games	1389.92
+Chandler	Sporting Goods	1314.69
+Charlotte	Video Games	1394.01
+Chesapeake	Pet Supplies	1641.0
+Chicago	Computers	1394.47
+Chula Vista	Men's Clothing	1425.38
+Cincinnati	Garden	1371.27
+Cleveland	Music	1244.63
+Colorado Springs	Crafts	1234.76
+Columbus	Pet Supplies	1311.06
+Corpus Christi	Baby	1420.64
+Dallas	Baby	1348.31
+Denver	Crafts	1483.87
+Detroit	Video Games	1447.87
+Durham	Computers	1416.01
+El Paso	Crafts	1327.67
+Fort Wayne	Cameras	1316.84
+Fort Worth	Music	1337.88
+Fremont	Baby	1305.03
+Fresno	Children's Clothing	1563.89
+Garland	Sporting Goods	1612.33
+Gilbert	Music	1635.66
+Glendale	Computers	1442.82
+Greensboro	Sporting Goods	1353.36
+Henderson	DVDs	1354.38
+Hialeah	Baby	1928.95
+Honolulu	Pet Supplies	1535.87
+Houston	Computers	1313.48
+Indianapolis	Health and Beauty	1598.3
+Irvine	Children's Clothing	1376.05
+Irving	Computers	1358.62
+Jacksonville	Books	1707.3
+Jersey City	Sporting Goods	1241.03
+Kansas City	Music	1433.88
+Laredo	DVDs	1763.49
+Las Vegas	Men's Clothing	1334.01
+Lexington	Computers	1478.97
+Lincoln	Baby	1287.97
+Long Beach	Baby	1491.63
+Los Angeles	Consumer Electronics	1436.11
+Louisville	DVDs	1386.85
+Lubbock	Music	1287.64
+Madison	Cameras	1291.12
+Memphis	Computers	1647.16
+Mesa	Garden	1801.71
+Miami	Music	1242.93
+Milwaukee	Toys	1668.98
+Minneapolis	Health and Beauty	1362.83
+Nashville	Health and Beauty	1345.94
+New Orleans	Toys	1273.22
+New York	Pet Supplies	2016.15
+Newark	Music	1379.06
+Norfolk	Garden	1766.49
+North Las Vegas	CDs	1663.62
+Oakland	Consumer Electronics	1266.8
+Oklahoma City	Consumer Electronics	1299.11
+Omaha	Health and Beauty	1394.67
+Orlando	Books	1443.78
+Philadelphia	Consumer Electronics	1652.52
+Phoenix	Music	1344.7
+Pittsburgh	Toys	1400.69
+Plano	Toys	1408.84
+Portland	DVDs	1607.34
+Raleigh	Men's Clothing	1552.48
+Reno	Children's Clothing	1342.35
+Richmond	Pet Supplies	1342.09
+Riverside	Women's Clothing	1690.21
+Rochester	Music	1417.03
+Sacramento	Books	1872.25
+Saint Paul	Computers	1435.87
+San Antonio	Crafts	1416.2
+San Bernardino	Video Games	1659.93
+San Diego	Garden	1294.89
+San Francisco	Books	1319.33
+San Jose	Men's Clothing	1499.23
+Santa Ana	DVDs	1481.0
+Scottsdale	Health and Beauty	1435.14
+Seattle	Children's Clothing	1508.28
+Spokane	Cameras	1239.98
+St. Louis	Children's Clothing	1522.95
+St. Petersburg	Sporting Goods	1691.92
+Stockton	Video Games	1281.77
+Tampa	Health and Beauty	1389.63
+Toledo	Consumer Electronics	1389.24
+Tucson	Women's Clothing	1491.45
+Tulsa	Children's Clothing	1459.7
+Virginia Beach	Health and Beauty	1968.58
+Washington	Baby	1398.05
+Wichita	Video Games	1448.85
+Winston–Salem	Toys	1358.29
