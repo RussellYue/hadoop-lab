@@ -1,0 +1,103 @@
+Albuquerque     Children's Clothing     579902.1
+Anaheim Music   582258.76
+Anchorage       Baby    582424.49
+Arlington       Video Games     589641.78
+Atlanta Garden  578389.73
+Aurora  Toys    573050.54
+Austin  Baby    585991.83
+Bakersfield     Video Games     582554.84
+Baltimore       Video Games     579647.72
+Baton Rouge     Health and Beauty       582348.81
+Birmingham      Sporting Goods  578601.78
+Boise   Crafts  591205.25
+Boston  Men's Clothing  583366.25
+Buffalo DVDs    585154.96
+Chandler        Toys    569292.99
+Charlotte       Pet Supplies    578790.24
+Chesapeake      Computers       580986.83
+Chicago Men's Clothing  583207.43
+Chula Vista     Men's Clothing  578946.49
+Cincinnati      Toys    597884.34
+Cleveland       Children's Clothing     588268.49
+Colorado Springs        Women's Clothing        576907.27
+Columbus        Health and Beauty       576883.05
+Corpus Christi  Baby    577995.21
+Dallas  CDs     593825.12
+Denver  Computers       582945.81
+Detroit Baby    581837.6
+Durham  DVDs    593258.3
+El Paso Cameras 581664.08
+Fort Wayne      Men's Clothing  582302.03
+Fort Worth      Pet Supplies    594698.4
+Fremont Health and Beauty       574572.45
+Fresno  Music   580202.06
+Garland Books   583027.92
+Gilbert Women's Clothing        579613.34
+Glendale        DVDs    579090.16
+Greensboro      Video Games     576377.26
+Henderson       Children's Clothing     582336.29
+Hialeah CDs     583973.44
+Honolulu        Toys    579084.76
+Houston Men's Clothing  575703.72
+Indianapolis    Men's Clothing  599321.87
+Irvine  Consumer Electronics    583079.74
+Irving  Toys    587674.75
+Jacksonville    Sporting Goods  583145.03
+Jersey City     Garden  588898.94
+Kansas City     Books   582097.92
+Laredo  Video Games     589975.4
+Las Vegas       Toys    577027.44
+Lexington       Consumer Electronics    577941.95
+Lincoln Books   580395.73
+Long Beach      Garden  582364.82
+Los Angeles     Video Games     579165.68
+Louisville      Video Games     580962.73
+Lubbock Children's Clothing     573323.58
+Madison Music   581608.74
+Memphis Baby    576262.41
+Mesa    Toys    591139.41
+Miami   Cameras 572410.78
+Milwaukee       Computers       579109.15
+Minneapolis     Sporting Goods  570654.18
+Nashville       Music   586214.3
+New Orleans     Sporting Goods  580495.63
+New York        DVDs    592393.19
+Newark  Women's Clothing        582266.39
+Norfolk Cameras 579674.25
+North Las Vegas Consumer Electronics    576064.82
+Oakland Men's Clothing  573506.34
+Oklahoma City   CDs     572983.08
+Omaha   Sporting Goods  597021.31
+Orlando Computers       584055.46
+Philadelphia    Baby    594293.3
+Phoenix Children's Clothing     598207.68
+Pittsburgh      Books   583766.37
+Plano   Music   582237.07
+Portland        Books   570346.83
+Raleigh Sporting Goods  580829.13
+Reno    CDs     578683.13
+Richmond        Music   581773.54
+Riverside       Crafts  580443.17
+Rochester       Computers       577057.95
+Sacramento      Music   576862.36
+Saint Paul      Health and Beauty       576360.66
+San Antonio     Cameras 586126.62
+San Bernardino  Garden  570659.67
+San Diego       Men's Clothing  580012.35
+San Francisco   Health and Beauty       571250.86
+San Jose        CDs     586499.67
+Santa Ana       Music   595318.8
+Scottsdale      Children's Clothing     589424.11
+Seattle Health and Beauty       584975.58
+Spokane Women's Clothing        587202.79
+St. Louis       Pet Supplies    582845.32
+St. Petersburg  Sporting Goods  604041.54
+Stockton        Health and Beauty       577786.35
+Tampa   DVDs    593299.1
+Toledo  Video Games     576339.2
+Tucson  DVDs    572861.1
+Tulsa   Music   575289.51
+Virginia Beach  Children's Clothing     590931.82
+Washington      CDs     587423.01
+Wichita CDs     587427.04
+Winston–Salem   Consumer Electronics    583901.13

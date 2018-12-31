@@ -1,0 +1,1 @@
+alias hd="hdfs dfs"

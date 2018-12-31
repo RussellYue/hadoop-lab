@@ -1,0 +1,103 @@
+Albuquerque     Computers       499.98
+Anaheim DVDs    499.98
+Anchorage       Computers       499.99
+Arlington       Computers       499.95
+Atlanta Pet Supplies    499.96
+Aurora  Consumer Electronics    499.97
+Austin  Health and Beauty       499.97
+Bakersfield     DVDs    499.97
+Baltimore       Health and Beauty       499.99
+Baton Rouge     Cameras 499.98
+Birmingham      DVDs    499.99
+Boise   Baby    499.98
+Boston  Crafts  499.99
+Buffalo Health and Beauty       499.99
+Chandler        Consumer Electronics    499.98
+Charlotte       Health and Beauty       499.98
+Chesapeake      Video Games     499.98
+Chicago Crafts  499.99
+Chula Vista     Garden  499.99
+Cincinnati      Health and Beauty       499.98
+Cleveland       Health and Beauty       499.98
+Colorado Springs        Women's Clothing        499.99
+Columbus        Sporting Goods  499.98
+Corpus Christi  Crafts  499.96
+Dallas  CDs     499.99
+Denver  Crafts  499.97
+Detroit Crafts  499.99
+Durham  Books   499.96
+El Paso Health and Beauty       499.98
+Fort Wayne      Pet Supplies    499.96
+Fort Worth      Consumer Electronics    499.98
+Fremont Crafts  499.99
+Fresno  Health and Beauty       499.99
+Garland CDs     499.99
+Gilbert Garden  499.99
+Glendale        Men's Clothing  499.98
+Greensboro      Crafts  499.99
+Henderson       Computers       499.99
+Hialeah Children's Clothing     499.99
+Honolulu        Baby    499.99
+Houston Computers       499.99
+Indianapolis    Music   499.98
+Irvine  Toys    499.99
+Irving  Baby    499.99
+Jacksonville    Video Games     499.99
+Jersey City     DVDs    499.99
+Kansas City     Crafts  499.97
+Laredo  Men's Clothing  499.96
+Las Vegas       Consumer Electronics    499.98
+Lexington       Health and Beauty       499.97
+Lincoln DVDs    499.99
+Long Beach      DVDs    499.99
+Los Angeles     Consumer Electronics    499.99
+Louisville      Toys    499.98
+Lubbock Garden  499.98
+Madison DVDs    499.97
+Memphis Video Games     499.97
+Mesa    Video Games     499.99
+Miami   Men's Clothing  499.98
+Milwaukee       Health and Beauty       499.97
+Minneapolis     Pet Supplies    499.97
+Nashville       Cameras 499.97
+New Orleans     Video Games     499.99
+New York        Children's Clothing     499.99
+Newark  Children's Clothing     499.99
+Norfolk Books   499.97
+North Las Vegas Books   499.98
+Oakland CDs     499.99
+Oklahoma City   Children's Clothing     499.99
+Omaha   Computers       499.99
+Orlando Books   499.99
+Philadelphia    CDs     499.98
+Phoenix Children's Clothing     499.99
+Pittsburgh      Consumer Electronics    499.99
+Plano   Video Games     499.99
+Portland        Toys    499.96
+Raleigh Men's Clothing  499.99
+Reno    Computers       499.99
+Richmond        DVDs    499.96
+Riverside       Books   499.98
+Rochester       Music   499.99
+Sacramento      Toys    499.96
+Saint Paul      Baby    499.98
+San Antonio     Health and Beauty       499.98
+San Bernardino  CDs     499.98
+San Diego       Garden  499.98
+San Francisco   Men's Clothing  499.97
+San Jose        Children's Clothing     499.99
+Santa Ana       CDs     499.97
+Scottsdale      DVDs    499.98
+Seattle Baby    499.99
+Spokane Books   499.99
+St. Louis       Books   499.99
+St. Petersburg  Pet Supplies    499.95
+Stockton        Music   499.98
+Tampa   CDs     499.99
+Toledo  Men's Clothing  499.98
+Tucson  Computers       499.98
+Tulsa   Children's Clothing     499.96
+Virginia Beach  Consumer Electronics    499.98
+Washington      Pet Supplies    499.98
+Wichita Men's Clothing  499.97
+Winston–Salem   Cameras 499.98
